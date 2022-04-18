@@ -1,5 +1,4 @@
 ## <p align="center">My Technologies</p>
----
 
 ### *<p align="center">Languages</p>*
 
