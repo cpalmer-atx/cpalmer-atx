@@ -1,4 +1,11 @@
-### Hi there 👋
+## <p align="center">Client side Technologies</p>
+
+<div align="center">
+    <img src="./icons/react.svg" width="40" height="40" /> 
+    <img src="./icons/html.svg" width="40" height="40" /> 
+    <img src="./icons/css.svg" width="40" height="40" /> 
+    <img src="./icons/material-ui.svg" width="40" height="40" /> 
+</div>
 
 <!--
 **cpalmer-atx/cpalmer-atx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
