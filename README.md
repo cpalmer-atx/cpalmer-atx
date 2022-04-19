@@ -1,10 +1,10 @@
-## <p align="center">Who am I?</p>
+# <p align="center">Who am I?</p>
 
 <p align="center">
     Hello!  My name is Chad, and I'm a full stack software developer.  When I'm not honing my developer skills, I'm persuing my real estate inspector license as a supplement to my current skillset.  I graduated with a Bachelor of Science in Computer Science with a minor in Applied Mathematics in 2020 after 10 years of active duty service as a commercial vessel examiner for the U.S. Coast Guard.  I'm actively looking for developer positions and would love to hear from you if you're looking for new developers!
-</p>
+</p><br>
 
-## <p align="center">My Technologies</p>
+# <p align="center">My Technologies</p>
 
 ### *<p align="center">Languages</p>*
 
@@ -42,19 +42,7 @@
     <img src="./icons/vim.svg" width="40" height="40" />
     <img src="./icons/postman.svg" width="40" height="40" />
     <img src="./icons/nodemon.svg" width="40" height="40" />
-</div>
+</div><br>
 
-<!--
-**cpalmer-atx/cpalmer-atx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+# <div align="center"> :email: [Contact Me!](mailto:chad.n.palmer@gmail.com) :email: </div>
