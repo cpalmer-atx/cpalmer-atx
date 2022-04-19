@@ -1,10 +1,10 @@
-# <p align="center">Who am I?</p>
+# <div align="center"> :point_right: [Who am I?](mailto:chad.n.palmer@gmail.com) :point_left: </div>
 
 <p align="center">
-    Hello!  My name is Chad, and I'm a full stack software developer.  When I'm not honing my developer skills, I'm persuing my real estate inspector license as a supplement to my current skillset.  I graduated with a Bachelor of Science in Computer Science with a minor in Applied Mathematics in 2020 after 10 years of active duty service as a commercial vessel examiner for the U.S. Coast Guard.  I'm actively looking for developer positions and would love to hear from you if you're looking for new developers!
+    Hello!  My name is Chad, and I'm a full stack software developer.  When I'm not honing my developer skills, I'm persuing my real estate inspector license as a supplement to my current skillset.  I graduated with a Bachelor of Science in Computer Science with a minor in Applied Mathematics after 10 years of active duty service as a commercial vessel examiner for the U.S. Coast Guard.  I'm actively looking for developer positions and would love to hear from you!
 </p><br>
 
-# <p align="center">My Technologies</p>
+# <div align="center"> :coffee: [My Technologies](mailto:chad.n.palmer@gmail.com) :coffee: </div>
 
 ### *<p align="center">Languages</p>*
 
